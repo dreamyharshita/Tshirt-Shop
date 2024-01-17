@@ -1,0 +1,26 @@
+.shop{
+    
+    margin-left:10rem;
+    padding: 5rem;
+    
+}
+
+.small_input{
+    width: 5rem;
+}
+
+.labels{
+    justify-content: space-between;
+    align-content: center;
+
+}
+.labels label{
+    margin: 48px;
+}
+.inputs input{
+   width:10rem;
+   justify-content: space-between;
+    align-content: center;
+    padding: 5 rem;
+margin-left:10 px;
+}
